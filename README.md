@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Femeritus.org%2Fin%2Fwp-content%2Fuploads%2Fsites%2F3%2F2022%2F09%2Fdata-analyst.jpg.optimal.jpg&tbnid=jbLhb10KLUgdnM&vet=12ahUKEwjz3Lu44YaIAxU89qACHTikKswQMyhLegUIARCNAg..i&imgrefurl=https%3A%2F%2Femeritus.org%2Fin%2Flearn%2Fdata-analyst-roles-and-responsibilities%2F&docid=mNLg5ttr_vVcqM&w=1000&h=521&q=data%20analyst%20images&ved=2ahUKEwjz3Lu44YaIAxU89qACHTikKswQMyhLegUIARCNAg)](https://DEEPAN.io)
+[![MasterHead]("C:\Users\Deepan\Pictures\main\data-analyst.jpg.optimal.jpg")(https://DEEPAN.io)
 <h1 align="center">Hi 👋, I'm DEEPAN</h1>
 <h3 align="center">A passionate data scientist with a Master’s degree in Data Science and a strong background in data analysis, AI, and machine learning.</h3>
-(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="C:\Users\Deepan\Pictures\main\Model-Data-Analytics.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepan11&label=Profile%20views&color=0e75b6&style=flat" alt="deepan11" /> </p>
