@@ -1,4 +1,4 @@
-# 💫 About Me:DEEPAN
+# 💫 About Me:DEEPAN P
 A passionate data scientist with a Master’s degree in Data Science and a strong background in data analysis, AI, and machine learning.<br>🔭 I’m currently working on developing advanced machine learning models and data-driven solutions.<br><br>🌱 I’m currently learning advancements in deep learning and natural language processing of data science technology.<br><br>👯 I’m looking to collaborate on innovative projects involving big data, predictive analytics, and AI-driven applications.<br><br>💬 Ask me about Data analyst,Python,Power-Bi<br><br>📫 How to reach me deepan762002@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1cSK2bjLQQVcYvOKBuGvCru-bDBpzsUdZ/view?usp=sharing<br>
 
 
